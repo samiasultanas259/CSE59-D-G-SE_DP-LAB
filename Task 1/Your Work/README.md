@@ -193,6 +193,9 @@ The system integrates with:
 
 ---
 
+# system modeling
+<img src="images/erd.png">
+
 # 4. System Features and Functional Requirements
 
 # 4.1 User Authentication
