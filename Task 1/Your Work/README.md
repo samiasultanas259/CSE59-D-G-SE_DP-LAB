@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="erd" src="https://github.com/user-attachments/assets/0b80eb13-d331-4b8c-aac5-1e18a220074a" /># Software Requirements Specification (SRS)
+
 
 # Inventory Management System
 
